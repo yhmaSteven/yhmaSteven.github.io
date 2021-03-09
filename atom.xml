@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>yhma</title>
+  <icon>https://www.gravatar.com/avatar/3bea619cfe3cbff80c95c75eec126c08</icon>
   
+  <link href="https://www.yhma.online/atom.xml" rel="self"/>
   
-  <link href="https://yhma.online/atom.xml" rel="self"/>
-  
-  <link href="https://yhma.online/"/>
+  <link href="https://www.yhma.online/"/>
   <updated>2021-03-09T07:38:11.217Z</updated>
-  <id>https://yhma.online/</id>
+  <id>https://www.yhma.online/</id>
   
   <author>
     <name>yhma</name>
-    
+    <email>yhma@yhma.online</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yhma.online/2021/03/09/hello-world/"/>
-    <id>https://yhma.online/2021/03/09/hello-world/</id>
+    <link href="https://www.yhma.online/2021/03/09/hello-world/"/>
+    <id>https://www.yhma.online/2021/03/09/hello-world/</id>
     <published>2021-03-09T07:38:11.217Z</published>
     <updated>2021-03-09T07:38:11.217Z</updated>
     
